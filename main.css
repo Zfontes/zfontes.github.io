@@ -7,11 +7,6 @@ h2{
     font-size:medium;
     text-align-last:center;
 }
-.container {
-    position: relative;
-    text-align: center;
-    color: white;
-  }
 
 .centered {
     position: absolute;
