@@ -1,10 +1,10 @@
-i{
+h1 {
     font-size:x-large;
-    text-align-last:left;
-}
+    text-align-last:center;
+  }
 
-h1{
-    font-size:x-large;
-    text-align-last:left;
+h2{
+    font-size:medium;
+    text-align:center;
 }
 
