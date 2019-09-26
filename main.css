@@ -16,3 +16,7 @@ p
     display: grid;
     justify-content: center;
   }
+
+  .row{
+      display:grid;
+  }
