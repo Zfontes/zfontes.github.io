@@ -32,7 +32,7 @@ body{
     left:0;
     right:0;
     display:flex;
-    align-items: right ;
+    text-align: right;
     justify-content: center;
 
 }
