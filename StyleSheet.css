@@ -29,5 +29,13 @@ body{
 
 }
 
+@media screen and(max-width: 768px){
+    .overlay.fa-ul{
+        font-size: 250%;
+    }
+}
+
+
+
 
 
