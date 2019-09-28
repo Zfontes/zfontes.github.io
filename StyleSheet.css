@@ -21,8 +21,8 @@ body{
     float: right;
     line-height: 40%;
     position: absolute;
-    top:10%;
-    bottom:40%;
+    top:-10%;
+    bottom:-40%;
     left:-5%;
     right:-5%;
     display:flex;
