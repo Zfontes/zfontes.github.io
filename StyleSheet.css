@@ -16,7 +16,7 @@ body{
 }
 
 
-.fa-ul{
+.overylay .fa-ul{
     position: absolute;
     float: right;
     line-height: 40%;
