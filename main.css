@@ -1,33 +1,21 @@
-.wrapper{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-}
-
-.containter{
-    position: absolute;
-    top:0;
-    left:0;
+.video{
+    position: fixed;
     z-index: -1;
-
 }
 
-.containter video{
-    position: absolute;
-    top: 50%;
-    left: 50%
-    width: 100vw;
-    height: 50vw;
-    min-width: 150vw;
-    min-height: 100vh;
-    transform: translate(-50%, -50%);
+@media (min-aspect-ratio: 16/9){
+    .video{
+        width:100%;
+        height:auto;
+    }
 }
 
-  #media {
-    object-fit: cover;
-    min-width: 100%;
-    min-height: 100%;
-  }
+@media (max-aspect-ratio: 16/9){
+    .video{
+        width:auto;
+        height:100%;
+    }
+}
 
   body{
       margin: 0;
