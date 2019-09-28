@@ -12,3 +12,11 @@
 body{
     margin:0;
 }
+
+.fa-ul{
+    position: absolute;
+    top: 10%;
+    right: 15%;
+    bottom:90%;
+    left:85%;
+}
