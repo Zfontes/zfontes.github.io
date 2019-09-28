@@ -16,7 +16,7 @@ body{
 }
 
 
-.fa-ul li{
+li{
     position: absolute;
     float: right;
     line-height: 40%;
