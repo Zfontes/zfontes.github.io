@@ -16,7 +16,7 @@ body{
 }
 
 
-.overlay fa-ul{
+.overlay .fa-ul{
     position: absolute;
     top:10%;
     bottom:90%;
