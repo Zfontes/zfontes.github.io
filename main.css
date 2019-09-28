@@ -11,6 +11,12 @@ p
     min-width: 100%;
     min-height: 100%;
   }
+
+  .container { position:relative; }
+  .container video {
+    position:relative;
+    z-index:0;
+}
   
   /* Add some content at the bottom of the video/page */
   .content {
