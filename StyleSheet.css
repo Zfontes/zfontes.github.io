@@ -16,7 +16,7 @@ body{
 }
 
 
-li{
+.overlay li{
     position: absolute;
     float: right;
     line-height: 40%;
