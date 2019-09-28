@@ -18,22 +18,9 @@ body{
 
 .overlay .fa-ul{
     position: absolute;
-    top:10%;
-    bottom:90%;
-    left:85%;
-    right:15%;
-    display:flex;
     text-align: right;
-    flex-direction: column;
-    justify-content: center;
-
 }
-
-@media screen and(max-width: 768px){
-    .overlay.fa-ul{
-        font-size: 250%;
-    }
-}
+ 
 
 
 
