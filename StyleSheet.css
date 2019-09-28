@@ -21,10 +21,10 @@ body{
     float: right;
     line-height: 40%;
     position: absolute;
-    top:90%;
-    bottom:90%;
-    left:90%;
-    right:90%;
+    top:10%;
+    bottom:40%;
+    left:0%;
+    right:0%;
     display:flex;
     align-items: center;
     flex-direction: column;
