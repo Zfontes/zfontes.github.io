@@ -20,6 +20,10 @@ body{
     position: absolute;
     text-align: right;
 }
+
+li{
+    text-align: right;
+}
  
 
 
