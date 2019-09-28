@@ -22,16 +22,7 @@ p{
 
 .overlay.fa-ul{
     position: absolute;
-    float: right;
-    line-height: 40%;
-    position: absolute;
-    top:-100%;
-    bottom:-40%;
-    left:-5%;
-    right:-5%;
-    display:flex;
-    align-items: justify;
-    justify-content: center;
+
 }
 
 
