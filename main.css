@@ -1,8 +1,27 @@
-h1
-    {text-align:center;}
+.wrapper{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
 
-p
-    {text-align: center;}
+.containter{
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: -1;
+
+}
+
+.containter video{
+    position: absolute;
+    top: 50%;
+    left: 50%
+    width: 100vw;
+    height: 50vw;
+    min-width: 150vw;
+    min-height: 100vh;
+    transform: translate(-50%, -50%);
+}
 
   #media {
     object-fit: cover;
