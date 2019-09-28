@@ -8,13 +8,13 @@
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    font-family:Arial,sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 
 p{
     font-size: 130%;
-    font-family:Arial, Helvetica, sans-serif;
+    
 
 }
 
