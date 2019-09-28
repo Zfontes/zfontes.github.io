@@ -12,7 +12,12 @@
 
 body{
     margin:0;
-    font-family: "Arial";
+    font-family:Arial,sans-serif;
+}
+
+p{
+    font-size: 40%;
+
 }
 
 
