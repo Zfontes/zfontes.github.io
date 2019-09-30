@@ -12,19 +12,12 @@
     font-family:Arial, Helvetica, sans-serif;
     
 }
-
-
+body {
+    background-image: url("Rainfall Slow.mp4");
+    background-repeat: repeat;
+}
 p{
     font-size: 130%;
-    font-family:Arial, Helvetica, sans-serif;
-}
-
-h1{
-    font-family:Arial, Helvetica, sans-serif;
-}
-
-b{
-    font-family:Arial, Helvetica, sans-serif;
 }
 
 
