@@ -1,17 +1,4 @@
-.overlay {
-    position: absolute;
-    top:25%;
-    bottom:0;
-    left: -15%;
-    right:0;
-    display:flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-    color:white;
-    font-family:Arial, Helvetica, sans-serif;
-    
-}
+
 body {
     background-image: url("background.mp4");
     background-repeat: repeat;
